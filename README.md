@@ -21,7 +21,7 @@ Significance of Financial Data Analysis: Establishing benchmarks against industr
 
 Role of the Reports: Aligning financial planning with strategic objectives, instilling confidence in the organization's financial outlook, and supporting transparent and strategic decision-making processes.
 ## Technical Skills:
- . Excel formulas(like Index(), Match(), Vlookup(), Hlookup()).  
+ **.** Excel formulas(like Index(), Match(), Vlookup(), Hlookup()).  
  . Proficient in Data transformation(data cleaning, table merge).  
  . Proficient in ETL methodology (Extract, Transform, Load).  
  . Capable of deriving fiscal months and quarters.  
