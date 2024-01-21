@@ -20,3 +20,10 @@ Finance Analytics Objective: Conducting a thorough evaluation of financial perfo
 Significance of Financial Data Analysis: Establishing benchmarks against industry peers and historical periods, serving as the foundation for effective budgeting and forecasting.
 
 Role of the Reports: Aligning financial planning with strategic objectives, instilling confidence in the organization's financial outlook, and supporting transparent and strategic decision-making processes.
+## Technical Skills:
+**. Excel formulas(like Index(), Match(), Vlookup(), Hlookup()).
+**. Proficient in Data transformation(data cleaning, table merge).
+**. Proficient in ETL methodology (Extract, Transform, Load).
+**. Capable of deriving fiscal months and quarters.
+**. Demonstrated proficiency in DAX for advanced data manipulation and computation.
+**. Proficient in establishing robust data model relationships using Power Pivot and power query.
