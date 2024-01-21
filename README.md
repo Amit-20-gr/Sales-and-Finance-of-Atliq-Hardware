@@ -11,9 +11,9 @@ Significance of Sales Data Analysis: Revealing intricate sales patterns, monitor
 Role of the Reports: Identifying optimal customer discount strategies, streamlining negotiations, and pinpointing opportunities for market expansion.
 ## Finance View:
 ### Project Goal:
-1. Profit and Loss (P&L) Reporting: Developed comprehensive P&L reports organized by [fiscal years] and detailed [monthly] breakdowns.
+1. Profit and Loss (P&L) Reporting: Developed comprehensive P&L reports organized by [fiscal years](https://github.com/Amit-20-gr/Sales-and-Finance-of-Atliq-Hardware/blob/main/P%26L%20by%20fiscal%20year.pdf) and detailed [monthly](https://github.com/Amit-20-gr/Sales-and-Finance-of-Atliq-Hardware/blob/main/P%26L%20Statement%20by%20Months.pdf) breakdowns.
 
-2. Market-Specific P&L Reports: Generated market-focused [P&L reports], providing insights into financial performance across different markets.
+2. Market-Specific P&L Reports: Generated market-focused [P&L reports](https://github.com/Amit-20-gr/Sales-and-Finance-of-Atliq-Hardware/blob/main/P%26L%20Statement%20by%20Markets.pdf), providing insights into financial performance across different markets.
 
 Finance Analytics Objective: Conducting a thorough evaluation of financial performance, facilitating informed decision-making, and enhancing communication with stakeholders.
 
