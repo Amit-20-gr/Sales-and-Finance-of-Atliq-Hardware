@@ -31,4 +31,4 @@ Role of the Reports: Aligning financial planning with strategic objectives, inst
 > - Develop problem solving mindset.
 > - Extract Insights from Data.
 > - Create Effective and Professional Reports.
-> - Make Data-Driven Decisions.
+ - Make Data-Driven Decisions.
